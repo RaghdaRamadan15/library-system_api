@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI_full_stack_.net\\api\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\dto\\labwithauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:dto\\labwithauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\models\\lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:models\\lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\models\\labauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:models\\labauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\models\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:models\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\dto\\bookwithauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:dto\\bookwithauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|e:\\iti_full_stack_.net\\api\\api\\dto\\authorwithbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D0210-DA25-407C-A160-DAE164C0435B}|day2.csproj|solutionrelative:dto\\authorwithbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Librarybook.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\Librarybook.cs",
+              "RelativeDocumentMoniker": "Models\\Librarybook.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\Librarybook.cs",
+              "RelativeToolTip": "Models\\Librarybook.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:47:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "labwithauthor.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\labwithauthor.cs",
+              "RelativeDocumentMoniker": "DTO\\labwithauthor.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\labwithauthor.cs",
+              "RelativeToolTip": "DTO\\labwithauthor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:28:07.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "book.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\book.cs",
+              "RelativeDocumentMoniker": "Models\\book.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\book.cs",
+              "RelativeToolTip": "Models\\book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:21:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\lab.cs",
+              "RelativeDocumentMoniker": "Models\\lab.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\lab.cs",
+              "RelativeToolTip": "Models\\lab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:00:30.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:37:31.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "labAuthor.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\labAuthor.cs",
+              "RelativeDocumentMoniker": "Models\\labAuthor.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\labAuthor.cs",
+              "RelativeToolTip": "Models\\labAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:01:57.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labController.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\labController.cs",
+              "RelativeDocumentMoniker": "Controllers\\labController.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\labController.cs",
+              "RelativeToolTip": "Controllers\\labController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAIoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:33:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bookwithAuthor.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\bookwithAuthor.cs",
+              "RelativeDocumentMoniker": "DTO\\bookwithAuthor.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\bookwithAuthor.cs",
+              "RelativeToolTip": "DTO\\bookwithAuthor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:28:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:08:44.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorWithBook.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\AuthorWithBook.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthorWithBook.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\DTO\\AuthorWithBook.cs",
+              "RelativeToolTip": "DTO\\AuthorWithBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:33:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BOOKController.cs",
+              "DocumentMoniker": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\BOOKController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BOOKController.cs",
+              "ToolTip": "E:\\ITI_full_stack_.net\\api\\Api\\Controllers\\BOOKController.cs",
+              "RelativeToolTip": "Controllers\\BOOKController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:35:50.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
